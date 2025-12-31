@@ -1,0 +1,9 @@
+INFO Application started successfully
+INFO Connected to database
+INFO Service listening on port 8080
+WARNING Disk usage exceeded 80 percent
+WARNING Memory usage is high
+ERROR Failed to authenticate user
+ERROR Timeout while calling external API
+ERROR Kubernetes pod crashed unexpectedly
+INFO Request processed successfully
